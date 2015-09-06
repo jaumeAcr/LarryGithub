@@ -1,4 +1,4 @@
 # Larry Plotter
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Jaume A. Carcas Ruiz**, Git & Larry Plotter Lover
+**Jaume A. Carcas Ruiz**, Git Lover
